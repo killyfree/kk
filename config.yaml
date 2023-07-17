@@ -20,7 +20,7 @@ dns:
     - https://1.1.1.1/dns-query
     - tls://dns.adguard.com:853
 proxies:
-  - {name: peasoft-12|中国 007, server: 137.175.18.91, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: mahdibland-%F0%9F%87%BA%F0%9F%87%B8US-163.123.192.57-3351, server: 163.123.192.57, port: 443, type: trojan, password: 7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d, sni: 20-24-33-134.nhost.00cdn.com, skip-cert-verify: false}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
